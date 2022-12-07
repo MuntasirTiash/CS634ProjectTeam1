@@ -1,0 +1,4 @@
+Convolutional Neural Network (CNN) and state-of-the-art in terms of image segmentation and instance segmentation
+We create instance segmentation on images on the home depot website across various categories in the kitchen super category. A few examples are sink, bowl, and oven which have been presented in below.
+There are many advantages of MaskRCNN. Some of them are its simplicity, high accuracy and performance, Efficiency, and Flexibility.
+We used the pre-trained COCO Model that is being used for image segmentation and by transfer-learning used our custom dataset from the Home Depot website to nudge the weights towards a direction where it is able to segment images according to kitchen appliances.
