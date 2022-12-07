@@ -44,3 +44,7 @@ after that, we inserted our username and password.
 then we open the installed Google Chrome browser and go to localhost:8080
 
 Lastly, if we type our username and password we are able to login.
+
+After the completion of this project, we get this semantic segmentation.
+![bowl1](https://user-images.githubusercontent.com/104159880/206075334-e31af22d-2ef2-4505-a07a-79d27075fad6.png)
+![sink1](https://user-images.githubusercontent.com/104159880/206075336-1e96ae24-a226-487b-a3d1-5cf584262f5f.png)
